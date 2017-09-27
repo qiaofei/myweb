@@ -1,0 +1,15 @@
+.about_content{position: absolute; width: 1052px;left: 50%;margin-left: -526px;top: 942px;height: 1015px;background-color: rgba(15,9,10,0.85);}
+.about_content .about{width: 862px;margin: 50px auto;}
+.about p{color: #FFFFFF;}
+.about_t1{width: 100%;line-height: 30px;margin: 50px auto;}
+.about_t2{width: 100%;line-height: 30px;margin-top: 20px;padding-bottom: 50px;border-bottom: 1px solid #636563;}
+
+.erweima_ab{float: left;margin-top: 60px;width: 435px;height: 500px;}
+.about_text{margin-top: 60px;height: 500px;width: 382px;float: right;margin-right: 30px;}
+.about_text p{margin-top: 30px;margin-left: 90px;line-height: 30px;}
+.about_img{margin-left: 90px;margin-top: 135px;}
+.white_xian{width: 60px;height: 2px;background-color: #FFFFFF;margin-left: 90px; margin-top: 30px;}
+.about_bg {width:100%;text-align: center;margin-top: 50px;font-size: 15px;}
+
+
+

@@ -1,0 +1,16 @@
+.footer{width: 100% ;text-align:center;margin: 0 auto;background-color: #151515;padding:0;position: absolute;top: 2000px;display: block;
+		font-size: 12px;}
+.footer .menu_box {height: 22px;line-height: 22px;width: 80%;text-align:center;margin: 0 auto;padding:0;padding-top: 15px;}
+.footer .menu_box a {color: #727272}
+.footer .menu_a a>img{opacity: 0.5;filter:alpha(opacity=50);}
+.footer .menu_a a:last-child>img{opacity: 0.7;filter:alpha(opacity=70);}
+.footer .menu_box a:hover {color: #FFFFFF}
+.footer .menu_box .line {height: 12px;margin: -3px 0px 0 5px;color: #363636;}
+.footer .menu_list {display: inline;margin-bottom: 10px;}
+
+.copyright{color: #727272;width: 100%;text-align: center;line-height: 30px;}
+.copyright a{color: #d99d0c;}
+.menu_a{margin: 0px auto;width: 100%;text-align: center;margin-top: 15px;margin-bottom: 10px;}
+.menu_a a{margin: 0 18px;}
+.email{color: #d99d0c;}
+.footer_bottom{margin-bottom: 30px;}
